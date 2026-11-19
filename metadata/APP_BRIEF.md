@@ -1,4 +1,4 @@
-<!-- gf-brief source=b9b8abf6d4244e13d728475fe1dd1eb92ac11b04c2a315b44f31d8bc843a0b94 written=2026-11-19T21:09:15+03:00 -->
+<!-- gf-brief source=1742d3a2eef2f97bf12e40686f7c93663564f4048adb5c0c3e9dcb447c0340b3 written=2026-11-19T21:09:47+03:00 -->
 # Laws of the Game
 
 ## What it is
