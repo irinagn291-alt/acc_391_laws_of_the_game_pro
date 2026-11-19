@@ -1,0 +1,403 @@
+{
+  "ui": {
+    "home": "Learn",
+    "laws": "Rulebook",
+    "practice": "Practice",
+    "progress": "My course",
+    "headline": "Know the game.\nMake the call.",
+    "edition": "FOOTBALL • 2026/27",
+    "daily": "Rule of the day",
+    "law": "Law",
+    "read": "Explore this law",
+    "course": "Your referee journey",
+    "chapters": "Chapters",
+    "episodes": "Decisions",
+    "blocks": "Exam blocks",
+    "quick": "A moment. A decision.",
+    "quickBody": "Work through match situations and understand the reason behind every call.",
+    "begin": "Start practice",
+    "continue": "Continue",
+    "saved": "Saved laws",
+    "all": "All chapters",
+    "search": "Search laws and explanations",
+    "empty": "No chapters found",
+    "savedEmpty": "Save a chapter with the bookmark button to find it here.",
+    "study": "Study notes",
+    "original": "Independent learning guide. These notes explain key principles and do not replace the complete official Laws or competition regulations.",
+    "mark": "Mark as studied",
+    "studied": "Studied",
+    "check": "Try a decision",
+    "source": "Official source · online",
+    "official": "Official edition",
+    "import": "Import your PDF",
+    "importInfo": "The complete official text requires permission to redistribute. Import a lawfully obtained PDF for private offline reading; the file stays on this device.",
+    "openPDF": "Read imported PDF",
+    "pdfError": "This PDF could not be opened. Choose an unlocked PDF under 40 MB.",
+    "close": "Close",
+    "decision": "What is your decision?",
+    "correct": "Correct decision",
+    "review": "Review the law",
+    "next": "Next situation",
+    "finish": "Finish",
+    "practiceDone": "Practice complete",
+    "retry": "Try again",
+    "mistakes": "Review mistakes",
+    "noMistakes": "No mistakes to review yet. Start a practice session.",
+    "free": "Practice • 5 situations",
+    "exam": "Seasonal exam",
+    "examInfo": "Pass all three blocks at 80% or higher to create a personal course certificate. Untimed; answers are reviewed at the end. A training record, not an official referee qualification.",
+    "block0": "Foundations",
+    "block1": "Reading the game",
+    "block2": "Making the call",
+    "pass": "Block passed",
+    "fail": "Keep learning",
+    "answer": "Answer recorded",
+    "leave": "Save and close",
+    "resume": "Resume exam",
+    "certificate": "Course certificate",
+    "locked": "Pass every exam block to unlock your certificate.",
+    "name": "Name on certificate",
+    "export": "Create PDF",
+    "exportError": "The PDF could not be saved. Please try again.",
+    "achievement": "Completed the independent football rules course",
+    "disclaimer": "Personal learning record • Not issued or endorsed by IFAB or any football association.",
+    "settings": "Settings",
+    "language": "Language",
+    "reminders": "Study reminders",
+    "notifyInfo": "Choose local reminders: a daily law at 09:00 and a new seasonal exam on 1 July at 10:00. Permission is requested only when you enable a reminder.",
+    "seasonReminder": "New season reminder",
+    "denied": "Notifications are unavailable. You can enable them in system Settings. The course works without reminders.",
+    "system": "Open system settings",
+    "sync": "Sync with iCloud",
+    "syncInfo": "Optional: merge studied chapters, saved laws, decisions and exam results through your private iCloud database. This device keeps a local copy.",
+    "synced": "iCloud is up to date",
+    "local": "Saved on this device",
+    "cloudError": "iCloud is unavailable or not configured for this build. Your progress is safe on this device. Sign in to iCloud and try again.",
+    "privacy": "Privacy & sources",
+    "privacyText": "No ads, purchases, analytics or tracking. Study data stays on your device unless you choose iCloud sync; then it is stored in your private Apple account. Imported PDFs and certificate names stay local. Notifications are scheduled on your device. No developer server is used.",
+    "days": "Study days in a row",
+    "history": "Exam history",
+    "historyEmpty": "Your completed exam blocks will appear here.",
+    "reset": "Reset local progress",
+    "resetInfo": "This removes local study progress, certificates and the imported PDF. iCloud data is kept and may return if you sync again.",
+    "cancel": "Cancel",
+    "ready": "Rule of the day is ready",
+    "newSeason": "A new seasonal exam is available",
+    "widgetName": "Referee companion",
+    "widgetDesc": "A daily law and your course progress, available offline.",
+    "questions": "Questions",
+    "pdfContents": "PDF contents",
+    "page": "Page",
+    "saveError": "Could not save changes. Free some device storage and try again."
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "slug": "the-field-of-play",
+      "title": "The field of play",
+      "body": "Inspect the surface, markings, goals and corner flags before kick-off. Safety comes first: unsecured goals or a dangerous surface must be resolved before play.\n\nThe boundary line belongs to the area it encloses. A ball touching the touchline has not yet left the field."
+    },
+    {
+      "id": 2,
+      "slug": "the-ball",
+      "title": "The ball",
+      "body": "Use a suitable spherical ball and check its condition and pressure. Keep replacement balls ready under the referee’s control.\n\nIf a ball becomes defective during ordinary play, stop, replace it and use a dropped ball. A defective ball during a restart can require the restart to be retaken."
+    },
+    {
+      "id": 3,
+      "slug": "the-players",
+      "title": "The players",
+      "body": "Check the team list, substitutes and competition rules. The normal format has at most eleven players per team, including a goalkeeper. Seven is the usual minimum; temporary protocol exceptions exist.\n\nIn 2026/27, a substituted player normally has ten seconds to leave. An unjustified delay means the substitute waits until the first stoppage after one minute of resumed play."
+    },
+    {
+      "id": 4,
+      "slug": "the-players-equipment",
+      "title": "Players’ equipment",
+      "body": "Players need a shirt with sleeves, shorts, socks, suitable shin guards and footwear. Goalkeepers and teams must be distinguishable.\n\nRemove dangerous items, including jewellery. Covering jewellery with tape does not make it acceptable. Check safety again before allowing a corrected player to return."
+    },
+    {
+      "id": 5,
+      "slug": "the-referee",
+      "title": "The referee",
+      "body": "Position yourself to see both the challenge and the surrounding players. Apply advantage only when the offended team can benefit; return to the offence if that benefit does not arise within a few seconds.\n\nStop for a serious injury. In 2026/27, on-field injury assessment normally means one minute off after the restart, with specified exceptions such as goalkeeper injuries."
+    },
+    {
+      "id": 6,
+      "slug": "the-other-match-officials",
+      "title": "Other match officials",
+      "body": "Assistant referees help with boundary decisions, offside and substitutions. Agree on communication and responsibilities before the match.\n\nThe referee retains the final decision. Video assistance belongs only to competitions authorised to use it; it is not a feature of every match."
+    },
+    {
+      "id": 7,
+      "slug": "the-duration-of-the-match",
+      "title": "Match duration",
+      "body": "A standard match has two 45-minute halves. Youth and other permitted formats may differ under competition rules.\n\nAdd time for substitutions, injuries, disciplinary action, celebrations and other delays. The displayed additional time is a minimum, not a promise to stop at that exact second."
+    },
+    {
+      "id": 8,
+      "slug": "the-start-and-restart-of-play",
+      "title": "Starting & restarting",
+      "body": "For kick-off, the ball is stationary at the centre mark and enters play when kicked and clearly moving. Opponents remain at least 9.15 m away.\n\nA dropped ball enters play when it touches the ground. Players other than the recipient stay at least 4 m away until then. The recipient depends on the location and possession at the stoppage."
+    },
+    {
+      "id": 9,
+      "slug": "the-ball-in-and-out-of-play",
+      "title": "Ball in & out",
+      "body": "The entire ball must cross the boundary, in the air or on the ground, to leave the field. A rebound from a post or flag normally stays in play.\n\nIf the ball touches a match official and that touch starts a promising attack, changes possession or sends it directly into goal, stop and restart with a dropped ball."
+    },
+    {
+      "id": 10,
+      "slug": "determining-the-outcome-of-a-match",
+      "title": "The match outcome",
+      "body": "A goal requires the whole ball to cross the goal line between the posts and under the bar, without a scoring-team offence.\n\nCompetition rules determine how a drawn match is resolved. Penalty shoot-outs are a separate procedure after the match; do not add their kicks to the match score."
+    },
+    {
+      "id": 11,
+      "slug": "offside",
+      "title": "Offside",
+      "body": "Position alone is not an offence. At a teammate’s relevant touch, compare the attacker with both the ball and the second-last opponent in the opponents’ half. Arms do not count.\n\nPenalise active involvement: playing the ball, interfering with an opponent or gaining an advantage from a rebound or save. There is no direct offside offence from a throw-in, goal kick or corner."
+    },
+    {
+      "id": 12,
+      "slug": "fouls-and-misconduct",
+      "title": "Fouls & misconduct",
+      "body": "For physical challenges, separate carelessness, recklessness and excessive force. The restart and the disciplinary action answer different questions. Not every ball-to-hand contact is an offence.\n\nA goalkeeper controlling the ball with hands or arms for more than eight seconds concedes a corner. The referee visually counts the final five seconds; bouncing the ball does not reset the count."
+    },
+    {
+      "id": 13,
+      "slug": "free-kicks",
+      "title": "Free kicks",
+      "body": "A direct free kick can score against the opponents without another touch; an indirect kick needs another player’s touch. The raised arm signals an indirect kick.\n\nOpponents normally stay 9.15 m away. If a defensive wall has three or more players, attackers stay at least 1 m from it until the ball is in play."
+    },
+    {
+      "id": 14,
+      "slug": "the-penalty-kick",
+      "title": "The penalty kick",
+      "body": "Identify the kicker, place the ball on the mark and wait until everyone is correctly positioned. The goalkeeper needs at least part of one foot touching, in line with or behind the goal line at the kick.\n\nThe ball must be kicked forward. For an immediate accidental double touch, a scored kick is retaken; a missed kick normally gives an indirect free kick, unless advantage applies."
+    },
+    {
+      "id": 15,
+      "slug": "the-throw-in",
+      "title": "The throw-in",
+      "body": "Throw with both hands from behind and over the head, facing the field. Part of each foot touches the touchline or ground outside it. Opponents stay at least 2 m from the restart point.\n\nA goal cannot be scored directly. In 2026/27, delaying a throw-in can trigger a five-second visual countdown; exceeding it transfers the throw to the opponents."
+    },
+    {
+      "id": 16,
+      "slug": "the-goal-kick",
+      "title": "The goal kick",
+      "body": "A goal kick usually follows a ball last touched by an attacker going fully over the goal line without a goal. Kick the stationary ball from anywhere in the goal area. It is in play once kicked and clearly moving.\n\nOpponents normally remain outside the penalty area. In 2026/27, exceeding a referee’s five-second delay countdown concedes a corner."
+    },
+    {
+      "id": 17,
+      "slug": "the-corner-kick",
+      "title": "The corner kick",
+      "body": "A corner normally follows the ball leaving over the goal line after a defender’s last touch, without a goal. Other Laws can also award a corner, including goalkeeper time control.\n\nPlace the stationary ball in the appropriate corner area; do not move the flag. Opponents stay 9.15 m from the corner arc. A direct goal against the opponents can count."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 1,
+      "prompt": "The ball still overlaps the touchline. Is it out?",
+      "options": [
+        "No, play continues",
+        "Yes, give a throw-in",
+        "Give a dropped ball"
+      ],
+      "reason": "The whole ball must cross the boundary. The line is part of the field.",
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "chapter": 2,
+      "prompt": "The ball bursts during a pass in ordinary play. What now?",
+      "options": [
+        "Stop, replace it, dropped ball",
+        "Play with the damaged ball",
+        "Give a free kick"
+      ],
+      "reason": "A defective ball is replaced. Ordinary play resumes with a dropped ball under the applicable procedure.",
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "chapter": 3,
+      "prompt": "A player deliberately takes 18 seconds to leave for a substitution, with no safety or injury issue. When can the substitute enter?",
+      "options": [
+        "First stoppage after one minute of resumed play",
+        "Immediately",
+        "After the next goal only"
+      ],
+      "reason": "In 2026/27, an unjustified breach of the ten-second exit limit delays the substitute’s entry.",
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "chapter": 4,
+      "prompt": "A player tapes over a necklace. May they wear it?",
+      "options": [
+        "No, remove it",
+        "Yes, tape is enough",
+        "Only the captain may"
+      ],
+      "reason": "Jewellery must be removed. Tape does not eliminate the requirement.",
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "chapter": 5,
+      "prompt": "You allow advantage after a foul, but the benefit fails within two seconds. What can you do?",
+      "options": [
+        "Return to the original foul",
+        "Never go back",
+        "Automatically send the player off"
+      ],
+      "reason": "Advantage may be recalled if the expected benefit does not develop within a few seconds.",
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "chapter": 6,
+      "prompt": "An assistant signals offside. Who has the final decision?",
+      "options": [
+        "The referee",
+        "The assistant alone",
+        "The team captain"
+      ],
+      "reason": "Assistants provide information; the referee makes the final decision.",
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "chapter": 7,
+      "prompt": "Three added minutes are shown, then an injury delays play for another minute. Must you stop at 93:00?",
+      "options": [
+        "No, account for the further delay",
+        "Yes, always",
+        "Remove all added time"
+      ],
+      "reason": "The displayed added time is a minimum. Further lost time can increase it.",
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "chapter": 8,
+      "prompt": "At a dropped ball, a player kicks it before it touches the ground. What now?",
+      "options": [
+        "Drop it again",
+        "Continue play",
+        "Give a penalty"
+      ],
+      "reason": "A dropped ball is not in play until it touches the ground.",
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "chapter": 9,
+      "prompt": "The ball hits the referee and possession changes to the other team. What is the restart?",
+      "options": [
+        "Dropped ball",
+        "Play on in every case",
+        "Throw-in"
+      ],
+      "reason": "A touch on an official that changes team possession requires a dropped ball.",
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "chapter": 10,
+      "prompt": "A shot is mostly over the goal line but a small part is still above it. Goal?",
+      "options": [
+        "No",
+        "Yes",
+        "Only if the goalkeeper agrees"
+      ],
+      "reason": "Every part of the ball must cross the goal line for a goal.",
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "chapter": 11,
+      "prompt": "An attacker receives the ball directly from a teammate’s throw-in beyond the second-last opponent. Offside?",
+      "options": [
+        "No offside offence",
+        "Always offside",
+        "Only inside the penalty area"
+      ],
+      "reason": "There is no offside offence when receiving directly from a throw-in.",
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "chapter": 12,
+      "prompt": "After the referee’s visible countdown, a goalkeeper still controls the ball with the hands beyond eight seconds. Decision?",
+      "options": [
+        "Corner to the opponents",
+        "Indirect free kick",
+        "Automatic sending-off"
+      ],
+      "reason": "Exceeding the eight-second goalkeeper control limit is punished with a corner, not an indirect kick.",
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "chapter": 13,
+      "prompt": "An indirect free kick goes untouched into the opponents’ goal. Decision?",
+      "options": [
+        "Goal kick",
+        "Goal",
+        "Retake for no reason"
+      ],
+      "reason": "An indirect free kick needs another player’s touch before a goal can count.",
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "chapter": 14,
+      "prompt": "The penalty taker slips, immediately touches the ball accidentally with both feet, and scores. In 2026/27?",
+      "options": [
+        "Retake the penalty",
+        "Always count the goal",
+        "Automatic red card"
+      ],
+      "reason": "An immediate accidental double touch followed by a goal means a retake. Deliberate second touches are different.",
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "chapter": 15,
+      "prompt": "A legal throw-in goes directly into the opponents’ goal without another touch. Decision?",
+      "options": [
+        "Goal kick",
+        "Goal",
+        "Penalty"
+      ],
+      "reason": "A goal cannot be scored directly from a throw-in. Into the opponents’ goal means a goal kick.",
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "chapter": 16,
+      "prompt": "A correctly taken goal kick moves clearly but stays inside the penalty area. Is it in play?",
+      "options": [
+        "Yes",
+        "Only after leaving the area",
+        "Only after a second touch"
+      ],
+      "reason": "The ball enters play when kicked and clearly moving; it does not have to leave the penalty area.",
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "chapter": 17,
+      "prompt": "A legal corner curls directly into the opponents’ goal. Decision?",
+      "options": [
+        "Goal",
+        "Goal kick",
+        "Always retake"
+      ],
+      "reason": "A corner may score directly against the opponents if no other offence occurs.",
+      "correct": 0
+    }
+  ]
+}

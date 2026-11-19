@@ -1,0 +1,7 @@
+Study football’s 17 laws with an independent refereeing course. The bundled 2026/27 guide pairs each law with a match situation so you can apply what you’ve read. Browse the daily law, search the rulebook, bookmark chapters and mark them as studied.
+
+Practise with five randomly selected situations or revisit decisions you got wrong. Each practice answer comes with immediate feedback and an explanation. Test yourself in three untimed seasonal exam blocks, each with an 80% pass mark. Pass all three in the current season to generate a personalised PDF certificate as a record of your learning.
+
+Track your study streak, progress and exam history in My course. The bundled guide, practice, exams and progress work offline. You can also import a copy of the official IFAB PDF to read offline and transfer course progress using a JSON file.
+
+Available on iPhone and iPad from iOS or iPadOS 17.4. The interface and course are available in English, German, Spanish, Italian, Brazilian Portuguese and French.

@@ -1,0 +1,403 @@
+{
+  "ui": {
+    "home": "Impara",
+    "laws": "Regolamento",
+    "practice": "Esercizi",
+    "progress": "Il mio corso",
+    "headline": "Conosci il gioco.\nDecidi sul campo.",
+    "edition": "CALCIO • 2026/27",
+    "daily": "Regola del giorno",
+    "law": "Regola",
+    "read": "Esplora la regola",
+    "course": "Il tuo percorso arbitrale",
+    "chapters": "Capitoli",
+    "episodes": "Decisioni",
+    "blocks": "Moduli di esame",
+    "quick": "Un istante. Una decisione.",
+    "quickBody": "Risolvi situazioni di gioco e comprendi ogni decisione.",
+    "begin": "Inizia esercizi",
+    "continue": "Continua",
+    "saved": "Regole salvate",
+    "all": "Tutti i capitoli",
+    "search": "Cerca regole e spiegazioni",
+    "empty": "Nessun capitolo trovato",
+    "savedEmpty": "Salva un capitolo con il segnalibro per trovarlo qui.",
+    "study": "Note di studio",
+    "original": "Guida di studio indipendente. Queste note non sostituiscono le Regole ufficiali complete né i regolamenti della competizione.",
+    "mark": "Segna come studiato",
+    "studied": "Studiato",
+    "check": "Prova una decisione",
+    "source": "Fonte ufficiale · online",
+    "official": "Edizione ufficiale",
+    "import": "Importa il tuo PDF",
+    "importInfo": "La distribuzione del testo ufficiale richiede un permesso. Importa un PDF ottenuto legalmente per leggerlo offline; il file resta sul dispositivo.",
+    "openPDF": "Leggi PDF importato",
+    "pdfError": "Impossibile aprire il PDF. Scegli un PDF non protetto sotto 40 MB.",
+    "close": "Chiudi",
+    "decision": "Qual è la tua decisione?",
+    "correct": "Decisione corretta",
+    "review": "Ripassa la regola",
+    "next": "Situazione successiva",
+    "finish": "Termina",
+    "practiceDone": "Esercizi completati",
+    "retry": "Riprova",
+    "mistakes": "Ripassa gli errori",
+    "noMistakes": "Nessun errore da ripassare. Inizia una sessione.",
+    "free": "Esercizi • 5 situazioni",
+    "exam": "Esame stagionale",
+    "examInfo": "Supera i tre moduli con almeno l’80% per creare un attestato personale. Senza limite di tempo; risposte alla fine. Non è una qualifica arbitrale ufficiale.",
+    "block0": "Fondamenti",
+    "block1": "Leggere il gioco",
+    "block2": "Prendere decisioni",
+    "pass": "Modulo superato",
+    "fail": "Continua a imparare",
+    "answer": "Risposta salvata",
+    "leave": "Salva e chiudi",
+    "resume": "Riprendi esame",
+    "certificate": "Attestato del corso",
+    "locked": "Supera tutti i moduli per ottenere l’attestato.",
+    "name": "Nome sull’attestato",
+    "export": "Crea PDF",
+    "exportError": "Impossibile salvare il PDF. Riprova.",
+    "achievement": "Ha completato il corso indipendente sulle regole del calcio",
+    "disclaimer": "Attestato personale di studio • Non emesso né approvato da IFAB o da una federazione calcistica.",
+    "settings": "Impostazioni",
+    "language": "Lingua",
+    "reminders": "Promemoria di studio",
+    "notifyInfo": "Promemoria locali: una regola alle 09:00 e l’esame stagionale il 1° luglio alle 10:00. Il permesso viene richiesto solo all’attivazione.",
+    "seasonReminder": "Promemoria nuova stagione",
+    "denied": "Notifiche non disponibili. Puoi abilitarle nelle impostazioni di sistema. Il corso funziona senza promemoria.",
+    "system": "Apri impostazioni di sistema",
+    "sync": "Sincronizza con iCloud",
+    "syncInfo": "Facoltativo: unisci capitoli, segnalibri, decisioni e risultati nel database privato iCloud. Una copia resta sul dispositivo.",
+    "synced": "iCloud è aggiornato",
+    "local": "Salvato sul dispositivo",
+    "cloudError": "iCloud non disponibile o non configurato per questa build. I progressi sono al sicuro sul dispositivo. Accedi a iCloud e riprova.",
+    "privacy": "Privacy e fonti",
+    "privacyText": "Niente pubblicità, acquisti, analisi o tracciamento. I dati restano sul dispositivo, oppure nel tuo account Apple privato se scegli iCloud. PDF e nomi sugli attestati restano locali. I promemoria sono programmati sul dispositivo. Nessun server dello sviluppatore.",
+    "days": "Giorni di studio consecutivi",
+    "history": "Storico esami",
+    "historyEmpty": "Qui appariranno i moduli completati.",
+    "reset": "Azzera progressi locali",
+    "resetInfo": "Elimina progressi, attestati e PDF locali. I dati iCloud restano e possono tornare alla sincronizzazione.",
+    "cancel": "Annulla",
+    "ready": "La regola del giorno è pronta",
+    "newSeason": "È disponibile il nuovo esame stagionale",
+    "widgetName": "Compagno di arbitraggio",
+    "widgetDesc": "Una regola al giorno e i progressi, anche offline.",
+    "questions": "Domande",
+    "pdfContents": "Indice del PDF",
+    "page": "Pagina",
+    "saveError": "Modifiche non salvate. Libera spazio e riprova."
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "slug": "the-field-of-play",
+      "title": "Il terreno di gioco",
+      "body": "Controlla superficie, linee, porte e bandierine prima del calcio d’inizio. Porte non fissate o una superficie pericolosa vanno sistemate prima di giocare.\n\nLa linea appartiene all’area delimitata. Un pallone che tocca ancora la linea laterale non è uscito."
+    },
+    {
+      "id": 2,
+      "slug": "the-ball",
+      "title": "Il pallone",
+      "body": "Controlla forma, condizioni e pressione del pallone. I palloni di riserva restano sotto il controllo dell’arbitro.\n\nSe diventa difettoso durante il gioco ordinario, interrompi, sostituiscilo e riprendi con rimessa dell’arbitro. Durante una ripresa può essere necessaria la ripetizione."
+    },
+    {
+      "id": 3,
+      "slug": "the-players",
+      "title": "I calciatori",
+      "body": "Verifica distinta, riserve e regolamento della competizione. Di norma ci sono al massimo undici calciatori, incluso un portiere. Il minimo usuale è sette, salvo eccezioni temporanee dei protocolli.\n\nNel 2026/27 il sostituito ha normalmente dieci secondi per uscire. Un ritardo ingiustificato fa attendere il sostituto fino alla prima interruzione dopo un minuto di gioco ripreso."
+    },
+    {
+      "id": 4,
+      "slug": "the-players-equipment",
+      "title": "Equipaggiamento",
+      "body": "Servono maglia con maniche, pantaloncini, calzettoni, parastinchi adeguati e scarpe. Squadre e portieri devono distinguersi.\n\nVanno rimossi oggetti pericolosi, compresi gioielli. Coprirli con nastro non basta. Ricontrolla prima del rientro."
+    },
+    {
+      "id": 5,
+      "slug": "the-referee",
+      "title": "L’arbitro",
+      "body": "Posizionati per vedere contrasto e giocatori vicini. Applica il vantaggio solo se utile; se non si realizza in pochi secondi, punisci l’infrazione.\n\nInterrompi per infortuni gravi. Nel 2026/27 la valutazione in campo richiede normalmente un minuto fuori dopo la ripresa, salvo eccezioni come il portiere."
+    },
+    {
+      "id": 6,
+      "slug": "the-other-match-officials",
+      "title": "Altri ufficiali di gara",
+      "body": "Gli assistenti aiutano su uscite, fuorigioco e sostituzioni. Concordate comunicazione e responsabilità prima della gara.\n\nLa decisione finale resta all’arbitro. L’assistenza video è prevista solo nelle competizioni autorizzate."
+    },
+    {
+      "id": 7,
+      "slug": "the-duration-of-the-match",
+      "title": "Durata della gara",
+      "body": "La gara standard ha due tempi di 45 minuti. Formati giovanili e altre varianti ammesse possono differire.\n\nRecupera sostituzioni, infortuni, sanzioni, festeggiamenti e altri ritardi. Il recupero indicato è un minimo, non una scadenza esatta."
+    },
+    {
+      "id": 8,
+      "slug": "the-start-and-restart-of-play",
+      "title": "Inizio e ripresa",
+      "body": "Al calcio d’inizio il pallone è fermo al centro ed entra in gioco quando viene calciato e si muove chiaramente. Avversari a 9,15 m.\n\nLa rimessa dell’arbitro entra in gioco al contatto col terreno. Gli altri restano a 4 m. Il destinatario dipende da posizione e possesso all’interruzione."
+    },
+    {
+      "id": 9,
+      "slug": "the-ball-in-and-out-of-play",
+      "title": "Pallone in gioco e non",
+      "body": "Il pallone deve superare interamente la linea, a terra o in aria. Il rimbalzo su palo o bandierina normalmente resta in gioco.\n\nSe il tocco di un ufficiale avvia un attacco promettente, cambia il possesso o manda il pallone direttamente in rete, interrompi con rimessa dell’arbitro."
+    },
+    {
+      "id": 10,
+      "slug": "determining-the-outcome-of-a-match",
+      "title": "Esito della gara",
+      "body": "È rete se il pallone supera interamente la linea tra i pali e sotto la traversa senza infrazione della squadra attaccante.\n\nIl regolamento stabilisce come risolvere un pareggio. I tiri di rigore sono una procedura separata successiva; non si sommano al risultato della gara."
+    },
+    {
+      "id": 11,
+      "slug": "offside",
+      "title": "Fuorigioco",
+      "body": "La sola posizione non è infrazione. Al tocco rilevante del compagno confronta attaccante, pallone e penultimo avversario nella metà avversaria. Le braccia non contano.\n\nPunisci partecipazione attiva: giocare, interferire o sfruttare rimbalzo o parata. Nessun fuorigioco direttamente da rimessa laterale, rinvio o angolo."
+    },
+    {
+      "id": 12,
+      "slug": "fouls-and-misconduct",
+      "title": "Falli e scorrettezze",
+      "body": "Distingui negligenza, imprudenza e vigoria sproporzionata. Ripresa e provvedimento disciplinare sono decisioni distinte. Non ogni contatto mano-pallone è fallo.\n\nIl portiere che controlla con mani o braccia oltre otto secondi concede un angolo. L’arbitro conta visivamente gli ultimi cinque; far rimbalzare il pallone non azzera il conto."
+    },
+    {
+      "id": 13,
+      "slug": "free-kicks",
+      "title": "Calci di punizione",
+      "body": "La punizione diretta può segnare senza altri tocchi; l’indiretta richiede il tocco di un altro calciatore. Il braccio alzato indica l’indiretta.\n\nAvversari normalmente a 9,15 m. Con barriera di almeno tre difendenti, gli attaccanti restano a 1 m finché il pallone entra in gioco."
+    },
+    {
+      "id": 14,
+      "slug": "the-penalty-kick",
+      "title": "Il calcio di rigore",
+      "body": "Identifica il tiratore, posiziona il pallone e controlla le posizioni. Al tiro, parte di un piede del portiere deve toccare, essere in linea o dietro la linea di porta.\n\nSi calcia in avanti. Con doppio tocco accidentale immediato, se entra si ripete; se non entra, di norma indiretta, salvo vantaggio."
+    },
+    {
+      "id": 15,
+      "slug": "the-throw-in",
+      "title": "Rimessa laterale",
+      "body": "Lancia con entrambe le mani da dietro e sopra la testa, rivolto al campo. Parte di ogni piede tocca la linea o il terreno esterno. Avversari a 2 m.\n\nNon si segna direttamente. Nel 2026/27 ritardare può attivare un conteggio visivo di cinque secondi; superarlo assegna la rimessa agli avversari."
+    },
+    {
+      "id": 16,
+      "slug": "the-goal-kick",
+      "title": "Calcio di rinvio",
+      "body": "Di solito segue un ultimo tocco attaccante oltre la linea di porta senza rete. Pallone fermo in qualsiasi punto dell’area di porta; entra quando calciato e chiaramente mosso.\n\nAvversari normalmente fuori dall’area di rigore. Nel 2026/27 superare il conteggio arbitrale di cinque secondi per ritardo concede angolo."
+    },
+    {
+      "id": 17,
+      "slug": "the-corner-kick",
+      "title": "Calcio d’angolo",
+      "body": "L’angolo segue normalmente l’uscita oltre la linea di porta dopo tocco difendente senza rete. Altre regole lo prevedono, incluso il limite del portiere.\n\nPallone fermo nell’area d’angolo corretta; bandierina ferma. Avversari a 9,15 m dall’arco. Si può segnare direttamente agli avversari."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 1,
+      "prompt": "Il pallone è ancora sopra parte della linea laterale. È uscito?",
+      "options": [
+        "No, si continua",
+        "Sì, rimessa laterale",
+        "Rimessa dell’arbitro"
+      ],
+      "reason": "Deve oltrepassare tutta la linea. La linea fa parte del campo.",
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "chapter": 2,
+      "prompt": "Il pallone scoppia durante un passaggio nel gioco ordinario. Come procedi?",
+      "options": [
+        "Interrompi, sostituisci, rimessa dell’arbitro",
+        "Continua col pallone rotto",
+        "Punizione"
+      ],
+      "reason": "Si sostituisce il pallone e si riprende con rimessa dell’arbitro secondo la procedura prevista.",
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "chapter": 3,
+      "prompt": "Un calciatore impiega apposta 18 secondi a uscire, senza rischi o infortunio. Quando entra il sostituto?",
+      "options": [
+        "Prima interruzione dopo un minuto di gioco ripreso",
+        "Subito",
+        "Solo dopo il prossimo gol"
+      ],
+      "reason": "Nel 2026/27 il superamento ingiustificato dei dieci secondi ritarda l’ingresso del sostituto.",
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "chapter": 4,
+      "prompt": "Un calciatore copre una collana con nastro. Può tenerla?",
+      "options": [
+        "No, deve toglierla",
+        "Sì, basta il nastro",
+        "Solo il capitano"
+      ],
+      "reason": "I gioielli devono essere rimossi. Il nastro non sostituisce l’obbligo.",
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "chapter": 5,
+      "prompt": "Concedi vantaggio, ma entro due secondi non si realizza. Cosa puoi fare?",
+      "options": [
+        "Tornare al fallo originario",
+        "Mai tornare indietro",
+        "Espulsione automatica"
+      ],
+      "reason": "Si può tornare all’infrazione se il beneficio atteso non si realizza in pochi secondi.",
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "chapter": 6,
+      "prompt": "Un assistente segnala fuorigioco. Chi decide alla fine?",
+      "options": [
+        "L’arbitro",
+        "Solo l’assistente",
+        "Il capitano"
+      ],
+      "reason": "Gli assistenti forniscono informazioni; la decisione finale è dell’arbitro.",
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "chapter": 7,
+      "prompt": "Si indicano tre minuti, poi un infortunio ritarda un altro minuto. Devi finire a 93:00?",
+      "options": [
+        "No, recupera l’ulteriore ritardo",
+        "Sì, sempre",
+        "Elimina tutto il recupero"
+      ],
+      "reason": "Il recupero indicato è un minimo. Ulteriori perdite possono aumentarlo.",
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "chapter": 8,
+      "prompt": "Su rimessa dell’arbitro il pallone viene calciato prima di toccare terra. Come procedi?",
+      "options": [
+        "Ripeti la rimessa",
+        "Continua",
+        "Rigore"
+      ],
+      "reason": "La rimessa dell’arbitro entra in gioco al contatto col terreno.",
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "chapter": 9,
+      "prompt": "Il pallone colpisce l’arbitro e cambia la squadra in possesso. Come riprendi?",
+      "options": [
+        "Rimessa dell’arbitro",
+        "Sempre continuare",
+        "Rimessa laterale"
+      ],
+      "reason": "Un tocco su un ufficiale che cambia il possesso richiede rimessa dell’arbitro.",
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "chapter": 10,
+      "prompt": "Un tiro supera quasi tutta la linea, ma una parte è ancora sopra. È gol?",
+      "options": [
+        "No",
+        "Sì",
+        "Solo se il portiere accetta"
+      ],
+      "reason": "Tutto il pallone deve superare interamente la linea di porta.",
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "chapter": 11,
+      "prompt": "Un attaccante riceve direttamente da rimessa laterale oltre il penultimo avversario. Fuorigioco?",
+      "options": [
+        "Nessuna infrazione",
+        "Sempre",
+        "Solo in area"
+      ],
+      "reason": "Non c’è fuorigioco ricevendo direttamente da rimessa laterale.",
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "chapter": 12,
+      "prompt": "Dopo il conteggio visivo il portiere controlla con le mani oltre otto secondi. Decisione?",
+      "options": [
+        "Angolo per gli avversari",
+        "Punizione indiretta",
+        "Espulsione automatica"
+      ],
+      "reason": "Superare gli otto secondi comporta angolo, non punizione indiretta.",
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "chapter": 13,
+      "prompt": "Una punizione indiretta entra senza altri tocchi nella porta avversaria. Decisione?",
+      "options": [
+        "Calcio di rinvio",
+        "Gol",
+        "Ripetere senza motivo"
+      ],
+      "reason": "L’indiretta richiede un altro tocco di un calciatore prima della rete.",
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "chapter": 14,
+      "prompt": "Il tiratore scivola, tocca subito accidentalmente con entrambi i piedi e segna. Nel 2026/27?",
+      "options": [
+        "Ripetere il rigore",
+        "Sempre gol",
+        "Rosso automatico"
+      ],
+      "reason": "Il doppio tocco accidentale immediato seguito da gol richiede ripetizione. Il secondo tocco volontario è diverso.",
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "chapter": 15,
+      "prompt": "Una rimessa laterale regolare entra direttamente nella porta avversaria. Decisione?",
+      "options": [
+        "Calcio di rinvio",
+        "Gol",
+        "Rigore"
+      ],
+      "reason": "Non si segna direttamente da rimessa laterale. Nella porta avversaria segue rinvio.",
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "chapter": 16,
+      "prompt": "Un rinvio regolare si muove chiaramente ma resta in area. È in gioco?",
+      "options": [
+        "Sì",
+        "Solo fuori dall’area",
+        "Solo dopo un secondo tocco"
+      ],
+      "reason": "Entra in gioco quando calciato e chiaramente mosso; non deve uscire dall’area.",
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "chapter": 17,
+      "prompt": "Un angolo regolare entra direttamente nella porta avversaria. Decisione?",
+      "options": [
+        "Gol",
+        "Rinvio",
+        "Ripetere sempre"
+      ],
+      "reason": "Si può segnare direttamente da angolo agli avversari se non ci sono altre infrazioni.",
+      "correct": 0
+    }
+  ]
+}

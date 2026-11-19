@@ -1,0 +1,403 @@
+{
+  "ui": {
+    "home": "Aprender",
+    "laws": "Reglamento",
+    "practice": "Practicar",
+    "progress": "Mi curso",
+    "headline": "Conoce el juego.\nToma la decisión.",
+    "edition": "FÚTBOL • 2026/27",
+    "daily": "Regla del día",
+    "law": "Regla",
+    "read": "Explorar esta regla",
+    "course": "Tu camino arbitral",
+    "chapters": "Capítulos",
+    "episodes": "Decisiones",
+    "blocks": "Bloques de examen",
+    "quick": "Un instante. Una decisión.",
+    "quickBody": "Resuelve situaciones y comprende cada decisión.",
+    "begin": "Comenzar práctica",
+    "continue": "Continuar",
+    "saved": "Reglas guardadas",
+    "all": "Todos los capítulos",
+    "search": "Buscar reglas y explicaciones",
+    "empty": "No se encontraron capítulos",
+    "savedEmpty": "Guarda un capítulo con el marcador para verlo aquí.",
+    "study": "Notas de estudio",
+    "original": "Guía de aprendizaje independiente. Estas notas no sustituyen las Reglas oficiales completas ni el reglamento de la competición.",
+    "mark": "Marcar como estudiado",
+    "studied": "Estudiado",
+    "check": "Probar una decisión",
+    "source": "Fuente oficial · en línea",
+    "official": "Edición oficial",
+    "import": "Importar tu PDF",
+    "importInfo": "La redistribución del texto oficial requiere autorización. Importa un PDF obtenido legalmente para leerlo sin conexión; permanece en este dispositivo.",
+    "openPDF": "Leer PDF importado",
+    "pdfError": "No se pudo abrir. Elige un PDF sin contraseña de menos de 40 MB.",
+    "close": "Cerrar",
+    "decision": "¿Cuál es tu decisión?",
+    "correct": "Decisión correcta",
+    "review": "Repasa la regla",
+    "next": "Siguiente situación",
+    "finish": "Finalizar",
+    "practiceDone": "Práctica completada",
+    "retry": "Reintentar",
+    "mistakes": "Repasar errores",
+    "noMistakes": "Aún no hay errores. Comienza una práctica.",
+    "free": "Práctica • 5 situaciones",
+    "exam": "Examen de temporada",
+    "examInfo": "Supera los tres bloques con al menos un 80 % para crear un certificado personal del curso. Sin límite de tiempo; revisión al final. No es una titulación arbitral oficial.",
+    "block0": "Fundamentos",
+    "block1": "Leer el juego",
+    "block2": "Tomar decisiones",
+    "pass": "Bloque aprobado",
+    "fail": "Sigue aprendiendo",
+    "answer": "Respuesta guardada",
+    "leave": "Guardar y cerrar",
+    "resume": "Continuar examen",
+    "certificate": "Certificado del curso",
+    "locked": "Supera todos los bloques para obtener tu certificado.",
+    "name": "Nombre en el certificado",
+    "export": "Crear PDF",
+    "exportError": "No se pudo guardar el PDF. Inténtalo de nuevo.",
+    "achievement": "Ha completado el curso independiente de reglas del fútbol",
+    "disclaimer": "Registro personal de aprendizaje • No emitido ni avalado por IFAB ni por una federación.",
+    "settings": "Ajustes",
+    "language": "Idioma",
+    "reminders": "Recordatorios de estudio",
+    "notifyInfo": "Avisos locales: una regla diaria a las 09:00 y el examen de temporada el 1 de julio a las 10:00. Solo se pide permiso al activar un aviso.",
+    "seasonReminder": "Aviso de nueva temporada",
+    "denied": "Las notificaciones no están disponibles. Puedes activarlas en Ajustes del sistema. El curso funciona sin avisos.",
+    "system": "Abrir ajustes del sistema",
+    "sync": "Sincronizar con iCloud",
+    "syncInfo": "Opcional: combina capítulos, marcadores, decisiones y resultados en tu base privada de iCloud. Se conserva una copia local.",
+    "synced": "iCloud está actualizado",
+    "local": "Guardado en este dispositivo",
+    "cloudError": "iCloud no está disponible o no está configurado para esta compilación. Tu progreso está guardado. Inicia sesión en iCloud y reintenta.",
+    "privacy": "Privacidad y fuentes",
+    "privacyText": "Sin anuncios, compras, análisis ni rastreo. Los datos permanecen en el dispositivo salvo si eliges iCloud, en tu cuenta privada de Apple. Los PDF y nombres de certificados siguen locales. Los avisos se programan en el dispositivo. Sin servidor propio.",
+    "days": "Días de estudio seguidos",
+    "history": "Historial de exámenes",
+    "historyEmpty": "Aquí aparecerán tus bloques completados.",
+    "reset": "Borrar progreso local",
+    "resetInfo": "Elimina progreso, certificados y PDF locales. Los datos de iCloud se conservan y pueden volver al sincronizar.",
+    "cancel": "Cancelar",
+    "ready": "La regla del día está lista",
+    "newSeason": "Ya está disponible el examen de temporada",
+    "widgetName": "Compañero arbitral",
+    "widgetDesc": "Una regla diaria y tu progreso, sin conexión.",
+    "questions": "Preguntas",
+    "pdfContents": "Índice del PDF",
+    "page": "Página",
+    "saveError": "No se guardaron los cambios. Libera espacio y reintenta."
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "slug": "the-field-of-play",
+      "title": "El terreno de juego",
+      "body": "Antes del inicio, revisa superficie, líneas, porterías y banderines. Las porterías sueltas o una superficie peligrosa deben corregirse antes de jugar.\n\nLa línea pertenece al área que delimita. Un balón que aún toca la línea de banda no ha salido."
+    },
+    {
+      "id": 2,
+      "slug": "the-ball",
+      "title": "El balón",
+      "body": "Comprueba forma, estado y presión del balón. Los balones de repuesto quedan bajo control arbitral.\n\nSi se estropea durante el juego normal, detén el juego, cámbialo y reanuda con balón a tierra. En una reanudación puede ser necesario repetirla."
+    },
+    {
+      "id": 3,
+      "slug": "the-players",
+      "title": "Los jugadores",
+      "body": "Revisa la lista, suplentes y normas de competición. El formato normal permite once jugadores por equipo, incluido un guardameta. El mínimo habitual es siete, con excepciones temporales de protocolo.\n\nEn 2026/27, el sustituido dispone normalmente de diez segundos para salir. Un retraso injustificado obliga al suplente a esperar hasta la primera interrupción tras un minuto de juego reanudado."
+    },
+    {
+      "id": 4,
+      "slug": "the-players-equipment",
+      "title": "Equipamiento",
+      "body": "Se necesitan camiseta con mangas, pantalón, medias, espinilleras adecuadas y calzado. Equipos y guardametas deben distinguirse.\n\nSe retiran objetos peligrosos, incluidas joyas. Cubrirlas con cinta no basta. Revisa de nuevo antes de autorizar el regreso."
+    },
+    {
+      "id": 5,
+      "slug": "the-referee",
+      "title": "El árbitro",
+      "body": "Busca una posición con visión de la disputa y su entorno. Aplica ventaja si beneficia al equipo; si no aparece en pocos segundos, sanciona la infracción.\n\nDetén el juego ante lesión grave. En 2026/27, la atención en el campo suele exigir un minuto fuera tras reanudar, con excepciones como el guardameta."
+    },
+    {
+      "id": 6,
+      "slug": "the-other-match-officials",
+      "title": "Otros miembros arbitrales",
+      "body": "Los asistentes colaboran en salidas, fuera de juego y sustituciones. Acordad comunicación y funciones antes del partido.\n\nLa decisión final corresponde al árbitro. La asistencia por vídeo solo se usa en competiciones autorizadas."
+    },
+    {
+      "id": 7,
+      "slug": "the-duration-of-the-match",
+      "title": "Duración del partido",
+      "body": "El formato estándar tiene dos tiempos de 45 minutos. Las categorías juveniles y otros formatos permitidos pueden variar.\n\nAñade tiempo por cambios, lesiones, sanciones, celebraciones y otras demoras. El tiempo anunciado es un mínimo, no un final exacto."
+    },
+    {
+      "id": 8,
+      "slug": "the-start-and-restart-of-play",
+      "title": "Inicio y reanudación",
+      "body": "En el saque inicial el balón está inmóvil en el centro y entra en juego al ser golpeado y moverse claramente. Rivales a 9,15 m.\n\nEl balón a tierra entra en juego al tocar el suelo. Los demás permanecen a 4 m hasta entonces. El receptor depende del lugar y la posesión al detenerse."
+    },
+    {
+      "id": 9,
+      "slug": "the-ball-in-and-out-of-play",
+      "title": "Balón en juego o fuera",
+      "body": "Debe cruzar toda la línea, por aire o suelo. Un rebote en poste o banderín suele seguir en juego.\n\nSi un toque en un miembro arbitral inicia un ataque prometedor, cambia la posesión o manda el balón directamente a gol, detén y reanuda con balón a tierra."
+    },
+    {
+      "id": 10,
+      "slug": "determining-the-outcome-of-a-match",
+      "title": "Resultado del partido",
+      "body": "Hay gol cuando todo el balón cruza la línea entre postes y bajo el larguero sin infracción atacante.\n\nLa competición define cómo resolver empates. La tanda de penales es un procedimiento separado posterior; sus lanzamientos no se suman al marcador del partido."
+    },
+    {
+      "id": 11,
+      "slug": "offside",
+      "title": "Fuera de juego",
+      "body": "La posición sola no es infracción. En el toque relevante del compañero, compara al atacante con balón y penúltimo rival en campo contrario. No cuentan los brazos.\n\nSanciona participación activa: jugar el balón, interferir o aprovechar rebote o parada. No hay fuera de juego directo de saque de banda, meta o esquina."
+    },
+    {
+      "id": 12,
+      "slug": "fouls-and-misconduct",
+      "title": "Faltas y conducta",
+      "body": "Distingue imprudencia, temeridad y fuerza excesiva. La reanudación y la sanción disciplinaria son decisiones distintas. No todo contacto con la mano es infracción.\n\nSi el guardameta controla el balón con manos o brazos más de ocho segundos, concede un córner. El árbitro cuenta visualmente los últimos cinco; botarlo no reinicia la cuenta."
+    },
+    {
+      "id": 13,
+      "slug": "free-kicks",
+      "title": "Tiros libres",
+      "body": "El libre directo puede marcar sin otro toque; el indirecto necesita el toque de otro jugador. El brazo elevado señala el indirecto.\n\nRivales normalmente a 9,15 m. Si la barrera tiene al menos tres defensores, los atacantes guardan 1 m hasta que el balón esté en juego."
+    },
+    {
+      "id": 14,
+      "slug": "the-penalty-kick",
+      "title": "El penal",
+      "body": "Identifica al lanzador, coloca el balón y revisa posiciones. Al golpear, parte de un pie del portero debe tocar, estar alineada con o detrás de la línea de gol.\n\nSe patea hacia delante. Si hay doble toque accidental inmediato y gol, se repite; si falla, normalmente libre indirecto, salvo ventaja."
+    },
+    {
+      "id": 15,
+      "slug": "the-throw-in",
+      "title": "Saque de banda",
+      "body": "Lanza con ambas manos desde detrás y sobre la cabeza, mirando al campo. Parte de cada pie toca la línea o el suelo exterior. Rivales a 2 m.\n\nNo se marca directamente. En 2026/27, demorar el saque puede activar una cuenta visual de cinco segundos; si vence, saca el rival."
+    },
+    {
+      "id": 16,
+      "slug": "the-goal-kick",
+      "title": "Saque de meta",
+      "body": "Suele concederse si el atacante toca último y el balón cruza la línea de gol sin marcar. Se golpea inmóvil desde el área de meta; entra al moverse claramente.\n\nLos rivales normalmente quedan fuera del área penal. En 2026/27, agotar la cuenta arbitral de cinco segundos por demora concede córner."
+    },
+    {
+      "id": 17,
+      "slug": "the-corner-kick",
+      "title": "Saque de esquina",
+      "body": "El córner suele seguir a salida por línea de gol tras toque defensor sin gol. Otras reglas también lo conceden, como exceso de tiempo del portero.\n\nBalón inmóvil en el cuadrante correcto; no muevas el banderín. Rivales a 9,15 m del arco. Puede marcarse directamente al rival."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 1,
+      "prompt": "El balón aún se superpone a la línea de banda. ¿Ha salido?",
+      "options": [
+        "No, sigue el juego",
+        "Sí, saque de banda",
+        "Balón a tierra"
+      ],
+      "reason": "Debe cruzar todo el balón. La línea forma parte del campo.",
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "chapter": 2,
+      "prompt": "El balón revienta durante un pase en juego normal. ¿Qué procede?",
+      "options": [
+        "Parar, cambiarlo, balón a tierra",
+        "Seguir con el balón dañado",
+        "Tiro libre"
+      ],
+      "reason": "Se cambia el balón defectuoso y se reanuda con balón a tierra según el procedimiento aplicable.",
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "chapter": 3,
+      "prompt": "Un jugador tarda 18 segundos en salir a propósito, sin lesión ni riesgo. ¿Cuándo entra el suplente?",
+      "options": [
+        "Primera interrupción tras un minuto de juego reanudado",
+        "Inmediatamente",
+        "Solo después del próximo gol"
+      ],
+      "reason": "En 2026/27, incumplir sin justificación los diez segundos retrasa la entrada del suplente.",
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "chapter": 4,
+      "prompt": "Un jugador cubre un collar con cinta. ¿Puede llevarlo?",
+      "options": [
+        "No, debe quitarlo",
+        "Sí, basta la cinta",
+        "Solo el capitán"
+      ],
+      "reason": "Las joyas deben retirarse. La cinta no elimina esa obligación.",
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "chapter": 5,
+      "prompt": "Das ventaja tras una falta, pero no se concreta en dos segundos. ¿Qué puedes hacer?",
+      "options": [
+        "Volver a la falta original",
+        "Nunca volver atrás",
+        "Expulsión automática"
+      ],
+      "reason": "Se puede volver a la infracción si el beneficio previsto no aparece en pocos segundos.",
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "chapter": 6,
+      "prompt": "Un asistente señala fuera de juego. ¿Quién decide al final?",
+      "options": [
+        "El árbitro",
+        "Solo el asistente",
+        "El capitán"
+      ],
+      "reason": "Los asistentes informan; el árbitro toma la decisión final.",
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "chapter": 7,
+      "prompt": "Se anuncian tres minutos y una lesión retrasa otro minuto. ¿Debes acabar en 93:00?",
+      "options": [
+        "No, compensa el retraso adicional",
+        "Sí, siempre",
+        "Quitar todo el añadido"
+      ],
+      "reason": "El tiempo anunciado es mínimo. Más tiempo perdido puede aumentarlo.",
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "chapter": 8,
+      "prompt": "En un balón a tierra, se golpea antes de tocar el suelo. ¿Qué procede?",
+      "options": [
+        "Repetir el balón a tierra",
+        "Seguir jugando",
+        "Penal"
+      ],
+      "reason": "El balón a tierra entra en juego cuando toca el suelo.",
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "chapter": 9,
+      "prompt": "El balón golpea al árbitro y cambia de equipo la posesión. ¿Reanudación?",
+      "options": [
+        "Balón a tierra",
+        "Seguir siempre",
+        "Saque de banda"
+      ],
+      "reason": "Un toque en un miembro arbitral que cambia la posesión exige balón a tierra.",
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "chapter": 10,
+      "prompt": "Un tiro cruza casi toda la línea de gol, pero una parte sigue encima. ¿Gol?",
+      "options": [
+        "No",
+        "Sí",
+        "Si lo acepta el portero"
+      ],
+      "reason": "Todo el balón debe cruzar la línea para que haya gol.",
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "chapter": 11,
+      "prompt": "Un atacante recibe directamente de saque de banda más allá del penúltimo rival. ¿Fuera de juego?",
+      "options": [
+        "No hay infracción",
+        "Siempre",
+        "Solo dentro del área"
+      ],
+      "reason": "No hay fuera de juego al recibir directamente de saque de banda.",
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "chapter": 12,
+      "prompt": "Tras la cuenta visible, el portero controla con las manos más de ocho segundos. ¿Decisión?",
+      "options": [
+        "Córner para el rival",
+        "Libre indirecto",
+        "Expulsión automática"
+      ],
+      "reason": "Superar los ocho segundos se sanciona con córner, no libre indirecto.",
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "chapter": 13,
+      "prompt": "Un libre indirecto entra sin otro toque en la portería rival. ¿Decisión?",
+      "options": [
+        "Saque de meta",
+        "Gol",
+        "Repetir sin motivo"
+      ],
+      "reason": "El libre indirecto necesita otro toque de jugador para que cuente el gol.",
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "chapter": 14,
+      "prompt": "El lanzador resbala, toca accidentalmente con ambos pies de inmediato y marca. ¿En 2026/27?",
+      "options": [
+        "Repetir el penal",
+        "Siempre gol",
+        "Roja automática"
+      ],
+      "reason": "El doble toque accidental inmediato seguido de gol exige repetir. El segundo toque deliberado es distinto.",
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "chapter": 15,
+      "prompt": "Un saque de banda legal entra directo en la portería rival. ¿Decisión?",
+      "options": [
+        "Saque de meta",
+        "Gol",
+        "Penal"
+      ],
+      "reason": "No se marca directamente de banda. Si entra en la portería rival, saque de meta.",
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "chapter": 16,
+      "prompt": "Un saque de meta correcto se mueve claramente pero sigue en el área. ¿Está en juego?",
+      "options": [
+        "Sí",
+        "Solo al salir del área",
+        "Solo tras otro toque"
+      ],
+      "reason": "Entra en juego al ser golpeado y moverse claramente; no necesita salir del área.",
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "chapter": 17,
+      "prompt": "Un córner legal entra directamente en la portería rival. ¿Decisión?",
+      "options": [
+        "Gol",
+        "Saque de meta",
+        "Repetir siempre"
+      ],
+      "reason": "Un córner puede marcar directamente al rival si no hay otra infracción.",
+      "correct": 0
+    }
+  ]
+}

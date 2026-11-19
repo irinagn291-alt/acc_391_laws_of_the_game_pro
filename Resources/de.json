@@ -1,0 +1,403 @@
+{
+  "ui": {
+    "home": "Lernen",
+    "laws": "Regelbuch",
+    "practice": "Üben",
+    "progress": "Mein Kurs",
+    "headline": "Das Spiel kennen.\nSicher entscheiden.",
+    "edition": "FUSSBALL • 2026/27",
+    "daily": "Regel des Tages",
+    "law": "Regel",
+    "read": "Diese Regel lesen",
+    "course": "Dein Weg zum Schiedsrichter",
+    "chapters": "Kapitel",
+    "episodes": "Entscheidungen",
+    "blocks": "Prüfungsblöcke",
+    "quick": "Ein Moment. Eine Entscheidung.",
+    "quickBody": "Spielsituationen lösen und jede Entscheidung verstehen.",
+    "begin": "Übung starten",
+    "continue": "Weiter",
+    "saved": "Gespeicherte Regeln",
+    "all": "Alle Kapitel",
+    "search": "Regeln und Erklärungen suchen",
+    "empty": "Keine Kapitel gefunden",
+    "savedEmpty": "Speichere Kapitel über das Lesezeichen.",
+    "study": "Lernnotizen",
+    "original": "Unabhängiger Lernleitfaden. Diese Notizen ersetzen weder die vollständigen offiziellen Regeln noch Wettbewerbsbestimmungen.",
+    "mark": "Als gelernt markieren",
+    "studied": "Gelernt",
+    "check": "Entscheidung üben",
+    "source": "Offizielle Quelle · online",
+    "official": "Offizielle Ausgabe",
+    "import": "Eigenes PDF importieren",
+    "importInfo": "Die Weitergabe des offiziellen Volltexts erfordert eine Genehmigung. Importiere ein rechtmäßig erworbenes PDF zum privaten Offline-Lesen. Die Datei bleibt auf diesem Gerät.",
+    "openPDF": "Importiertes PDF lesen",
+    "pdfError": "Das PDF lässt sich nicht öffnen. Wähle ein ungeschütztes PDF unter 40 MB.",
+    "close": "Schließen",
+    "decision": "Wie entscheidest du?",
+    "correct": "Richtige Entscheidung",
+    "review": "Regel wiederholen",
+    "next": "Nächste Situation",
+    "finish": "Abschließen",
+    "practiceDone": "Übung abgeschlossen",
+    "retry": "Erneut versuchen",
+    "mistakes": "Fehler wiederholen",
+    "noMistakes": "Noch keine Fehler. Starte eine Übung.",
+    "free": "Übung • 5 Situationen",
+    "exam": "Saisonprüfung",
+    "examInfo": "Bestehe alle drei Blöcke mit mindestens 80 %, um eine persönliche Kursbescheinigung zu erstellen. Ohne Zeitlimit; Lösungen am Ende. Kein offizieller Schiedsrichterausweis.",
+    "block0": "Grundlagen",
+    "block1": "Das Spiel lesen",
+    "block2": "Entscheidungen treffen",
+    "pass": "Block bestanden",
+    "fail": "Weiterlernen",
+    "answer": "Antwort gespeichert",
+    "leave": "Speichern und schließen",
+    "resume": "Prüfung fortsetzen",
+    "certificate": "Kursbescheinigung",
+    "locked": "Bestehe alle Prüfungsblöcke für die Bescheinigung.",
+    "name": "Name auf der Bescheinigung",
+    "export": "PDF erstellen",
+    "exportError": "Das PDF konnte nicht gespeichert werden. Bitte erneut versuchen.",
+    "achievement": "Unabhängigen Fußballregel-Kurs abgeschlossen",
+    "disclaimer": "Persönlicher Lernnachweis • Nicht von IFAB oder einem Fußballverband ausgestellt oder anerkannt.",
+    "settings": "Einstellungen",
+    "language": "Sprache",
+    "reminders": "Lernerinnerungen",
+    "notifyInfo": "Lokale Erinnerungen: täglich um 09:00 eine Regel und am 1. Juli um 10:00 die Saisonprüfung. Die Berechtigung wird erst beim Aktivieren angefragt.",
+    "seasonReminder": "Erinnerung zur neuen Saison",
+    "denied": "Mitteilungen sind nicht verfügbar. Aktiviere sie in den Systemeinstellungen. Der Kurs funktioniert auch ohne Erinnerungen.",
+    "system": "Systemeinstellungen öffnen",
+    "sync": "Mit iCloud synchronisieren",
+    "syncInfo": "Optional: Kapitel, Lesezeichen, Entscheidungen und Ergebnisse über die private iCloud-Datenbank abgleichen. Eine lokale Kopie bleibt erhalten.",
+    "synced": "iCloud ist aktuell",
+    "local": "Auf diesem Gerät gespeichert",
+    "cloudError": "iCloud ist nicht verfügbar oder für diese App nicht eingerichtet. Dein Fortschritt bleibt auf diesem Gerät. Melde dich bei iCloud an und versuche es erneut.",
+    "privacy": "Datenschutz und Quellen",
+    "privacyText": "Keine Werbung, Käufe, Analyse oder Tracking. Lerndaten bleiben lokal, außer bei gewählter iCloud-Synchronisation im privaten Apple-Konto. PDFs und Namen auf Bescheinigungen bleiben lokal. Mitteilungen werden auf dem Gerät geplant. Kein Entwickler-Server.",
+    "days": "Lerntage in Folge",
+    "history": "Prüfungsverlauf",
+    "historyEmpty": "Abgeschlossene Blöcke erscheinen hier.",
+    "reset": "Lokalen Fortschritt zurücksetzen",
+    "resetInfo": "Entfernt lokale Fortschritte, Bescheinigungen und das PDF. iCloud-Daten bleiben und können bei Synchronisierung zurückkehren.",
+    "cancel": "Abbrechen",
+    "ready": "Regel des Tages ist bereit",
+    "newSeason": "Eine neue Saisonprüfung ist verfügbar",
+    "widgetName": "Regelbegleiter",
+    "widgetDesc": "Tägliche Regel und Kursfortschritt, offline verfügbar.",
+    "questions": "Fragen",
+    "pdfContents": "PDF-Inhalt",
+    "page": "Seite",
+    "saveError": "Änderungen nicht gespeichert. Speicherplatz freigeben und erneut versuchen."
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "slug": "the-field-of-play",
+      "title": "Das Spielfeld",
+      "body": "Prüfe vor dem Anpfiff Oberfläche, Linien, Tore und Eckfahnen. Unsichere Tore oder gefährliche Flächen müssen zuerst gesichert werden.\n\nEine Begrenzungslinie gehört zum umschlossenen Bereich. Berührt der Ball noch die Seitenlinie, ist er nicht im Aus."
+    },
+    {
+      "id": 2,
+      "slug": "the-ball",
+      "title": "Der Ball",
+      "body": "Prüfe Form, Zustand und Druck des Balls. Ersatzbälle stehen unter Kontrolle des Schiedsrichters bereit.\n\nWird der Ball im laufenden Spiel defekt, unterbrich, ersetze ihn und setze mit Schiedsrichterball fort. Bei einer Spielfortsetzung kann eine Wiederholung nötig sein."
+    },
+    {
+      "id": 3,
+      "slug": "the-players",
+      "title": "Spieler",
+      "body": "Prüfe Teamliste, Ersatzspieler und Wettbewerbsregeln. Normal sind höchstens elf Spieler pro Team einschließlich Torwart. Meist sind mindestens sieben erforderlich; zeitweilige Protokollausnahmen bestehen.\n\n2026/27 muss ein ausgewechselter Spieler gewöhnlich binnen zehn Sekunden gehen. Bei unbegründeter Verzögerung wartet der Ersatz bis zur ersten Unterbrechung nach einer Minute Spielzeit."
+    },
+    {
+      "id": 4,
+      "slug": "the-players-equipment",
+      "title": "Spielerausrüstung",
+      "body": "Erforderlich sind Trikot mit Ärmeln, Hose, Stutzen, geeignete Schienbeinschoner und Schuhe. Teams und Torhüter müssen unterscheidbar sein.\n\nGefährliche Gegenstände, auch Schmuck, müssen entfernt werden. Abkleben genügt nicht. Prüfe die Sicherheit vor der Rückkehr."
+    },
+    {
+      "id": 5,
+      "slug": "the-referee",
+      "title": "Der Schiedsrichter",
+      "body": "Positioniere dich mit Sicht auf Zweikampf und Umfeld. Vorteil nur bei echtem Nutzen; tritt er nicht binnen weniger Sekunden ein, ahnde das Vergehen.\n\nBei schwerer Verletzung unterbrechen. 2026/27 bedeutet Behandlung auf dem Feld normalerweise eine Minute außerhalb nach Wiederbeginn, mit Ausnahmen etwa für Torhüter."
+    },
+    {
+      "id": 6,
+      "slug": "the-other-match-officials",
+      "title": "Weitere Spieloffizielle",
+      "body": "Assistenten helfen bei Ausball, Abseits und Wechseln. Sprecht Kommunikation und Aufgaben vor dem Spiel ab.\n\nDie endgültige Entscheidung trifft der Schiedsrichter. Video-Unterstützung gibt es nur in dafür zugelassenen Wettbewerben."
+    },
+    {
+      "id": 7,
+      "slug": "the-duration-of-the-match",
+      "title": "Spieldauer",
+      "body": "Standard sind zwei Halbzeiten zu 45 Minuten. Jugendspiele und andere erlaubte Formate können abweichen.\n\nGleiche Wechsel, Verletzungen, Disziplinarmaßnahmen, Torjubel und andere Verzögerungen aus. Angezeigte Nachspielzeit ist ein Minimum, kein fester Endzeitpunkt."
+    },
+    {
+      "id": 8,
+      "slug": "the-start-and-restart-of-play",
+      "title": "Beginn und Fortsetzung",
+      "body": "Beim Anstoß ruht der Ball am Mittelpunkt und ist nach Tritt und klarer Bewegung im Spiel. Gegner halten 9,15 m Abstand.\n\nBeim Schiedsrichterball beginnt das Spiel mit Bodenkontakt. Andere Spieler bleiben bis dahin 4 m entfernt. Empfänger richten sich nach Ort und Ballbesitz bei der Unterbrechung."
+    },
+    {
+      "id": 9,
+      "slug": "the-ball-in-and-out-of-play",
+      "title": "Ball im Spiel und im Aus",
+      "body": "Der ganze Ball muss die Linie am Boden oder in der Luft überschreiten. Nach Abprall von Pfosten oder Fahne bleibt er normalerweise im Spiel.\n\nFührt eine Berührung eines Offiziellen zu aussichtsreichem Angriff, Ballbesitzwechsel oder direktem Tor, unterbrich mit Schiedsrichterball."
+    },
+    {
+      "id": 10,
+      "slug": "determining-the-outcome-of-a-match",
+      "title": "Spielausgang",
+      "body": "Ein Tor zählt, wenn der gesamte Ball zwischen Pfosten und unter Latte die Torlinie überquert, ohne Vergehen des angreifenden Teams.\n\nWettbewerbsregeln regeln Gleichstand. Elfmeterschießen ist ein getrenntes Verfahren nach dem Spiel; dessen Treffer gehören nicht zum Spielergebnis."
+    },
+    {
+      "id": 11,
+      "slug": "offside",
+      "title": "Abseits",
+      "body": "Die Position allein ist kein Vergehen. Vergleiche beim maßgeblichen Mitspielerkontakt den Angreifer mit Ball und vorletztem Gegner in der gegnerischen Hälfte. Arme zählen nicht.\n\nAhnde aktive Beteiligung: Ballspielen, Gegnerbeeinflussung oder Vorteil nach Abpraller oder Abwehraktion. Kein direktes Abseits bei Einwurf, Abstoß oder Ecke."
+    },
+    {
+      "id": 12,
+      "slug": "fouls-and-misconduct",
+      "title": "Fouls und Fehlverhalten",
+      "body": "Unterscheide bei Zweikämpfen Fahrlässigkeit, Rücksichtslosigkeit und übermäßige Härte. Spielfortsetzung und persönliche Strafe sind getrennte Entscheidungen. Nicht jeder Handkontakt ist strafbar.\n\nKontrolliert der Torwart den Ball über acht Sekunden mit Händen oder Armen, gibt es Eckstoß. Die letzten fünf Sekunden werden sichtbar gezählt; Prellen setzt die Zählung nicht zurück."
+    },
+    {
+      "id": 13,
+      "slug": "free-kicks",
+      "title": "Freistöße",
+      "body": "Direkter Freistoß kann ohne weitere Berührung ins gegnerische Tor gehen; indirekter braucht einen weiteren Spielerkontakt. Der gehobene Arm zeigt indirekt an.\n\nGegner halten gewöhnlich 9,15 m Abstand. Bei einer Mauer aus mindestens drei Verteidigern halten Angreifer bis zur Freigabe des Balls 1 m Abstand."
+    },
+    {
+      "id": 14,
+      "slug": "the-penalty-kick",
+      "title": "Strafstoß",
+      "body": "Bestimme den Schützen, platziere den Ball auf der Marke und prüfe alle Positionen. Beim Schuss muss ein Teil eines Torwartfußes auf, über oder hinter der Torlinie sein.\n\nDer Ball muss vorwärts. Bei sofortiger versehentlicher Doppelberührung wird ein verwandelter Strafstoß wiederholt; sonst normalerweise indirekter Freistoß, außer bei Vorteil."
+    },
+    {
+      "id": 15,
+      "slug": "the-throw-in",
+      "title": "Einwurf",
+      "body": "Wirf beidhändig von hinten über den Kopf mit Blick zum Feld. Beide Füße berühren teils die Seitenlinie oder Boden außerhalb. Gegner halten 2 m zum Einwurfort.\n\nKein direktes Tor möglich. 2026/27 kann Verzögerung eine sichtbare Fünf-Sekunden-Zählung auslösen; bei Überschreiten wirft der Gegner ein."
+    },
+    {
+      "id": 16,
+      "slug": "the-goal-kick",
+      "title": "Abstoß",
+      "body": "Abstoß gibt es meist nach letztem Angreiferkontakt über die Torlinie ohne Tor. Tritt den ruhenden Ball von beliebiger Stelle im Torraum. Klare Bewegung bringt ihn ins Spiel.\n\nGegner bleiben normalerweise außerhalb des Strafraums. 2026/27 führt Überschreiten der Fünf-Sekunden-Verzögerungszählung zum Eckstoß."
+    },
+    {
+      "id": 17,
+      "slug": "the-corner-kick",
+      "title": "Eckstoß",
+      "body": "Ecke folgt meist nach letztem Verteidigerkontakt über die Torlinie ohne Tor. Auch andere Regeln können Ecke vorsehen, etwa Torwart-Zeitüberschreitung.\n\nBall ruht im richtigen Eckbereich; Fahne nicht versetzen. Gegner halten 9,15 m zum Viertelkreis. Ein direktes Tor gegen den Gegner kann zählen."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 1,
+      "prompt": "Der Ball überlappt noch die Seitenlinie. Ist er im Aus?",
+      "options": [
+        "Nein, weiterspielen",
+        "Ja, Einwurf",
+        "Schiedsrichterball"
+      ],
+      "reason": "Der ganze Ball muss die Linie überschreiten. Die Linie gehört zum Spielfeld.",
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "chapter": 2,
+      "prompt": "Der Ball platzt bei einem Pass im laufenden Spiel. Was nun?",
+      "options": [
+        "Stoppen, ersetzen, Schiedsrichterball",
+        "Mit kaputtem Ball weiter",
+        "Freistoß geben"
+      ],
+      "reason": "Ein defekter Ball wird ersetzt. Im laufenden Spiel folgt Schiedsrichterball nach dem passenden Verfahren.",
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "chapter": 3,
+      "prompt": "Ein Spieler braucht absichtlich 18 Sekunden zum Wechsel, ohne Sicherheits- oder Verletzungsgrund. Wann darf der Ersatz hinein?",
+      "options": [
+        "Erste Unterbrechung nach einer Minute Spielzeit",
+        "Sofort",
+        "Nur nach dem nächsten Tor"
+      ],
+      "reason": "2026/27 verzögert eine unbegründete Überschreitung der zehn Sekunden den Eintritt des Ersatzspielers.",
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "chapter": 4,
+      "prompt": "Ein Spieler klebt eine Halskette ab. Darf er sie tragen?",
+      "options": [
+        "Nein, abnehmen",
+        "Ja, Abkleben genügt",
+        "Nur der Kapitän"
+      ],
+      "reason": "Schmuck muss entfernt werden. Abkleben ersetzt das nicht.",
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "chapter": 5,
+      "prompt": "Du gibst Vorteil nach einem Foul, doch der Nutzen bleibt binnen zwei Sekunden aus. Was ist möglich?",
+      "options": [
+        "Zum ursprünglichen Foul zurückkehren",
+        "Niemals zurückgehen",
+        "Automatisch Platzverweis"
+      ],
+      "reason": "Vorteil kann zurückgenommen werden, wenn der erwartete Nutzen nicht binnen weniger Sekunden entsteht.",
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "chapter": 6,
+      "prompt": "Ein Assistent zeigt Abseits an. Wer entscheidet endgültig?",
+      "options": [
+        "Der Schiedsrichter",
+        "Nur der Assistent",
+        "Der Kapitän"
+      ],
+      "reason": "Assistenten liefern Informationen; der Schiedsrichter trifft die endgültige Entscheidung.",
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "chapter": 7,
+      "prompt": "Drei Minuten werden angezeigt, dann verzögert eine Verletzung um eine weitere Minute. Musst du bei 93:00 abpfeifen?",
+      "options": [
+        "Nein, weitere Verzögerung ausgleichen",
+        "Ja, immer",
+        "Nachspielzeit streichen"
+      ],
+      "reason": "Angezeigte Nachspielzeit ist ein Minimum. Weitere Verluste können sie verlängern.",
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "chapter": 8,
+      "prompt": "Beim Schiedsrichterball tritt ein Spieler den Ball vor Bodenkontakt. Was nun?",
+      "options": [
+        "Erneut fallen lassen",
+        "Weiterspielen",
+        "Strafstoß"
+      ],
+      "reason": "Der Schiedsrichterball ist erst bei Bodenkontakt im Spiel.",
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "chapter": 9,
+      "prompt": "Der Ball trifft den Schiedsrichter und das andere Team erhält den Ballbesitz. Wie geht es weiter?",
+      "options": [
+        "Schiedsrichterball",
+        "Immer weiterspielen",
+        "Einwurf"
+      ],
+      "reason": "Wechselt durch die Berührung eines Offiziellen der Team-Ballbesitz, folgt Schiedsrichterball.",
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "chapter": 10,
+      "prompt": "Ein Schuss ist fast über der Torlinie, ein kleiner Teil noch darüber. Tor?",
+      "options": [
+        "Nein",
+        "Ja",
+        "Nur mit Zustimmung des Torwarts"
+      ],
+      "reason": "Der gesamte Ball muss die Torlinie vollständig überschreiten.",
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "chapter": 11,
+      "prompt": "Ein Angreifer erhält den Ball direkt aus dem Einwurf hinter dem vorletzten Gegner. Abseits?",
+      "options": [
+        "Kein Abseitsvergehen",
+        "Immer Abseits",
+        "Nur im Strafraum"
+      ],
+      "reason": "Bei direktem Empfang aus einem Einwurf gibt es kein Abseitsvergehen.",
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "chapter": 12,
+      "prompt": "Nach sichtbarer Zählung hält der Torwart den Ball länger als acht Sekunden. Entscheidung?",
+      "options": [
+        "Eckstoß für den Gegner",
+        "Indirekter Freistoß",
+        "Automatischer Platzverweis"
+      ],
+      "reason": "Die Überschreitung der acht Sekunden führt zum Eckstoß, nicht zum indirekten Freistoß.",
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "chapter": 13,
+      "prompt": "Ein indirekter Freistoß geht unberührt ins gegnerische Tor. Entscheidung?",
+      "options": [
+        "Abstoß",
+        "Tor",
+        "Grundlose Wiederholung"
+      ],
+      "reason": "Beim indirekten Freistoß braucht es vor dem Tor einen weiteren Spielerkontakt.",
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "chapter": 14,
+      "prompt": "Der Strafstoßschütze rutscht, berührt sofort versehentlich mit beiden Füßen und trifft. 2026/27?",
+      "options": [
+        "Strafstoß wiederholen",
+        "Tor immer anerkennen",
+        "Automatisch Rot"
+      ],
+      "reason": "Sofortige versehentliche Doppelberührung mit Tor führt zur Wiederholung. Absichtliche zweite Kontakte sind anders.",
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "chapter": 15,
+      "prompt": "Ein korrekter Einwurf geht direkt ins gegnerische Tor. Entscheidung?",
+      "options": [
+        "Abstoß",
+        "Tor",
+        "Strafstoß"
+      ],
+      "reason": "Aus Einwurf ist kein direktes Tor möglich. Ins gegnerische Tor folgt Abstoß.",
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "chapter": 16,
+      "prompt": "Ein korrekter Abstoß bewegt sich klar, bleibt aber im Strafraum. Ist er im Spiel?",
+      "options": [
+        "Ja",
+        "Erst außerhalb des Strafraums",
+        "Erst nach zweitem Kontakt"
+      ],
+      "reason": "Der Ball ist nach Tritt und klarer Bewegung im Spiel; er muss den Strafraum nicht verlassen.",
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "chapter": 17,
+      "prompt": "Eine korrekte Ecke dreht direkt ins gegnerische Tor. Entscheidung?",
+      "options": [
+        "Tor",
+        "Abstoß",
+        "Immer wiederholen"
+      ],
+      "reason": "Aus einer Ecke darf direkt gegen den Gegner ein Tor erzielt werden, wenn kein anderes Vergehen vorliegt.",
+      "correct": 0
+    }
+  ]
+}

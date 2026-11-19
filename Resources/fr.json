@@ -1,0 +1,403 @@
+{
+  "ui": {
+    "home": "Apprendre",
+    "laws": "Règlement",
+    "practice": "Pratiquer",
+    "progress": "Mon parcours",
+    "headline": "Comprendre le jeu.\nPrendre la décision.",
+    "edition": "FOOTBALL • 2026/27",
+    "daily": "Règle du jour",
+    "law": "Loi",
+    "read": "Explorer cette loi",
+    "course": "Votre parcours arbitral",
+    "chapters": "Chapitres",
+    "episodes": "Décisions",
+    "blocks": "Blocs d’examen",
+    "quick": "Un instant. Une décision.",
+    "quickBody": "Analysez des situations et comprenez chaque décision.",
+    "begin": "Commencer",
+    "continue": "Continuer",
+    "saved": "Lois enregistrées",
+    "all": "Tous les chapitres",
+    "search": "Rechercher lois et explications",
+    "empty": "Aucun chapitre trouvé",
+    "savedEmpty": "Enregistrez un chapitre avec le signet pour le retrouver ici.",
+    "study": "Notes de cours",
+    "original": "Guide pédagogique indépendant. Ces notes ne remplacent ni les Lois officielles complètes ni le règlement de la compétition.",
+    "mark": "Marquer comme étudié",
+    "studied": "Étudié",
+    "check": "Tester une décision",
+    "source": "Source officielle · en ligne",
+    "official": "Édition officielle",
+    "import": "Importer votre PDF",
+    "importInfo": "La redistribution du texte officiel nécessite une autorisation. Importez un PDF obtenu légalement pour une lecture privée hors ligne ; le fichier reste sur cet appareil.",
+    "openPDF": "Lire le PDF importé",
+    "pdfError": "Impossible d’ouvrir ce PDF. Choisissez un PDF non protégé de moins de 40 Mo.",
+    "close": "Fermer",
+    "decision": "Quelle est votre décision ?",
+    "correct": "Bonne décision",
+    "review": "Revoir la loi",
+    "next": "Situation suivante",
+    "finish": "Terminer",
+    "practiceDone": "Entraînement terminé",
+    "retry": "Réessayer",
+    "mistakes": "Revoir les erreurs",
+    "noMistakes": "Aucune erreur à revoir. Lancez un entraînement.",
+    "free": "Entraînement • 5 situations",
+    "exam": "Examen de saison",
+    "examInfo": "Réussissez les trois blocs avec au moins 80 % pour créer une attestation personnelle. Sans limite de temps ; correction à la fin. Ce n’est pas une qualification officielle d’arbitre.",
+    "block0": "Fondamentaux",
+    "block1": "Lire le jeu",
+    "block2": "Prendre la décision",
+    "pass": "Bloc réussi",
+    "fail": "Continuez à apprendre",
+    "answer": "Réponse enregistrée",
+    "leave": "Enregistrer et fermer",
+    "resume": "Reprendre l’examen",
+    "certificate": "Attestation de formation",
+    "locked": "Réussissez tous les blocs pour obtenir votre attestation.",
+    "name": "Nom sur l’attestation",
+    "export": "Créer le PDF",
+    "exportError": "Le PDF n’a pas pu être enregistré. Réessayez.",
+    "achievement": "A terminé le cours indépendant sur les lois du football",
+    "disclaimer": "Attestation personnelle • Ni délivrée ni approuvée par l’IFAB ou une fédération de football.",
+    "settings": "Réglages",
+    "language": "Langue",
+    "reminders": "Rappels d’étude",
+    "notifyInfo": "Rappels locaux : une loi à 09 h et l’examen de saison le 1er juillet à 10 h. L’autorisation n’est demandée qu’à l’activation.",
+    "seasonReminder": "Rappel de nouvelle saison",
+    "denied": "Notifications indisponibles. Activez-les dans les réglages système. Le cours fonctionne sans rappels.",
+    "system": "Ouvrir les réglages système",
+    "sync": "Synchroniser avec iCloud",
+    "syncInfo": "Facultatif : fusionnez chapitres, signets, décisions et résultats via votre base iCloud privée. Une copie locale est conservée.",
+    "synced": "iCloud est à jour",
+    "local": "Enregistré sur cet appareil",
+    "cloudError": "iCloud est indisponible ou non configuré pour cette version. Votre progression reste sur cet appareil. Connectez-vous à iCloud et réessayez.",
+    "privacy": "Confidentialité et sources",
+    "privacyText": "Aucune publicité, achat, analyse ou suivi. Les données restent sur l’appareil, ou dans votre compte Apple privé si vous choisissez iCloud. PDF et noms des attestations restent locaux. Les rappels sont programmés sur l’appareil. Aucun serveur du développeur.",
+    "days": "Jours d’étude consécutifs",
+    "history": "Historique des examens",
+    "historyEmpty": "Vos blocs terminés apparaîtront ici.",
+    "reset": "Réinitialiser la progression locale",
+    "resetInfo": "Supprime progression, attestations et PDF locaux. Les données iCloud restent et peuvent revenir à la synchronisation.",
+    "cancel": "Annuler",
+    "ready": "La règle du jour est prête",
+    "newSeason": "Un nouvel examen de saison est disponible",
+    "widgetName": "Compagnon d’arbitrage",
+    "widgetDesc": "Une loi quotidienne et votre progression, hors ligne.",
+    "questions": "Questions",
+    "pdfContents": "Sommaire du PDF",
+    "page": "Page",
+    "saveError": "Modifications non enregistrées. Libérez de l’espace et réessayez."
+  },
+  "chapters": [
+    {
+      "id": 1,
+      "slug": "the-field-of-play",
+      "title": "Le terrain",
+      "body": "Vérifiez surface, lignes, buts et drapeaux avant le début. Des buts mal fixés ou un sol dangereux doivent être sécurisés avant de jouer.\n\nLa ligne appartient à la surface délimitée. Un ballon touchant encore la ligne de touche n’est pas sorti."
+    },
+    {
+      "id": 2,
+      "slug": "the-ball",
+      "title": "Le ballon",
+      "body": "Vérifiez forme, état et pression du ballon. Les ballons de réserve restent sous le contrôle de l’arbitre.\n\nS’il devient défectueux dans le jeu courant, arrêtez, remplacez-le et reprenez par une balle à terre. Lors d’une reprise, une répétition peut être nécessaire."
+    },
+    {
+      "id": 3,
+      "slug": "the-players",
+      "title": "Les joueurs",
+      "body": "Vérifiez feuille de match, remplaçants et règlement. Le format habituel autorise onze joueurs, dont un gardien. Le minimum usuel est sept, avec des exceptions temporaires prévues par les protocoles.\n\nEn 2026/27, le joueur remplacé dispose normalement de dix secondes pour sortir. Un retard injustifié reporte l’entrée du remplaçant au premier arrêt après une minute de jeu repris."
+    },
+    {
+      "id": 4,
+      "slug": "the-players-equipment",
+      "title": "Équipement",
+      "body": "Il faut maillot à manches, short, chaussettes, protège-tibias adaptés et chaussures. Équipes et gardiens doivent se distinguer.\n\nRetirez les objets dangereux, dont les bijoux. Le ruban adhésif ne suffit pas. Vérifiez à nouveau avant d’autoriser le retour."
+    },
+    {
+      "id": 5,
+      "slug": "the-referee",
+      "title": "L’arbitre",
+      "body": "Placez-vous pour voir le duel et les joueurs proches. Accordez l’avantage s’il profite à l’équipe ; sinon, revenez à la faute dans les secondes suivantes.\n\nArrêtez pour une blessure grave. En 2026/27, les soins sur le terrain imposent normalement une minute dehors après la reprise, avec des exceptions, notamment pour le gardien."
+    },
+    {
+      "id": 6,
+      "slug": "the-other-match-officials",
+      "title": "Autres arbitres",
+      "body": "Les assistants aident pour les sorties, hors-jeu et remplacements. Convenez des communications et responsabilités avant le match.\n\nLa décision finale appartient à l’arbitre. L’assistance vidéo est réservée aux compétitions autorisées."
+    },
+    {
+      "id": 7,
+      "slug": "the-duration-of-the-match",
+      "title": "Durée du match",
+      "body": "Le format standard comprend deux périodes de 45 minutes. Les catégories de jeunes et autres formats autorisés peuvent différer.\n\nCompensez remplacements, blessures, sanctions, célébrations et autres retards. Le temps annoncé est un minimum, pas une fin à la seconde près."
+    },
+    {
+      "id": 8,
+      "slug": "the-start-and-restart-of-play",
+      "title": "Coup d’envoi et reprises",
+      "body": "Au coup d’envoi, le ballon est immobile au centre et entre en jeu une fois botté et clairement déplacé. Adversaires à 9,15 m.\n\nUne balle à terre entre en jeu en touchant le sol. Les autres joueurs restent à 4 m jusque-là. Le destinataire dépend du lieu et de la possession à l’arrêt."
+    },
+    {
+      "id": 9,
+      "slug": "the-ball-in-and-out-of-play",
+      "title": "Ballon en jeu et hors du jeu",
+      "body": "Le ballon entier doit franchir la ligne, au sol ou en l’air. Un rebond sur un poteau ou drapeau reste normalement en jeu.\n\nSi un contact avec un arbitre lance une attaque prometteuse, change la possession ou envoie directement le ballon au but, arrêtez et reprenez par une balle à terre."
+    },
+    {
+      "id": 10,
+      "slug": "determining-the-outcome-of-a-match",
+      "title": "Issue du match",
+      "body": "Il y a but quand le ballon entier franchit la ligne entre les poteaux et sous la barre sans faute de l’équipe attaquante.\n\nLe règlement prévoit le départage. Les tirs au but sont une procédure distincte après le match ; ils ne s’ajoutent pas au score du match."
+    },
+    {
+      "id": 11,
+      "slug": "offside",
+      "title": "Hors-jeu",
+      "body": "La position seule n’est pas une faute. Au toucher pertinent du coéquipier, comparez attaquant, ballon et avant-dernier adversaire dans le camp adverse. Les bras ne comptent pas.\n\nSanctionnez la participation active : jouer, gêner ou profiter d’un rebond ou arrêt. Aucun hors-jeu direct sur touche, sortie de but ou corner."
+    },
+    {
+      "id": 12,
+      "slug": "fouls-and-misconduct",
+      "title": "Fautes et incorrections",
+      "body": "Distinguez imprudence, témérité et force excessive. La reprise et la sanction disciplinaire sont des décisions distinctes. Tout contact avec la main n’est pas une faute.\n\nLe gardien contrôlant des mains ou bras plus de huit secondes concède un corner. L’arbitre compte visuellement les cinq dernières ; les rebonds ne remettent pas le compte à zéro."
+    },
+    {
+      "id": 13,
+      "slug": "free-kicks",
+      "title": "Coups francs",
+      "body": "Un coup franc direct peut marquer sans autre toucher ; l’indirect nécessite celui d’un autre joueur. Le bras levé signale l’indirect.\n\nAdversaires normalement à 9,15 m. Avec un mur d’au moins trois défenseurs, les attaquants restent à 1 m jusqu’à la mise en jeu."
+    },
+    {
+      "id": 14,
+      "slug": "the-penalty-kick",
+      "title": "Le penalty",
+      "body": "Identifiez le tireur, placez le ballon et vérifiez les positions. Au tir, une partie d’un pied du gardien doit toucher, être alignée avec ou derrière la ligne de but.\n\nLe ballon va vers l’avant. Avec double contact accidentel immédiat et but, le tir est à refaire ; sans but, indirect normalement, sauf avantage."
+    },
+    {
+      "id": 15,
+      "slug": "the-throw-in",
+      "title": "Rentrée de touche",
+      "body": "Lancez des deux mains depuis derrière et par-dessus la tête, face au terrain. Une partie de chaque pied touche la ligne ou le sol extérieur. Adversaires à 2 m.\n\nPas de but direct. En 2026/27, retarder peut déclencher un compte visuel de cinq secondes ; le dépasser donne la touche à l’adversaire."
+    },
+    {
+      "id": 16,
+      "slug": "the-goal-kick",
+      "title": "Coup de pied de but",
+      "body": "Il suit normalement un dernier toucher attaquant et une sortie par la ligne de but sans but. Ballon immobile dans la surface de but ; en jeu dès qu’il est botté et bouge clairement.\n\nAdversaires normalement hors de la surface de réparation. En 2026/27, dépasser le compte arbitral de cinq secondes pour retard concède un corner."
+    },
+    {
+      "id": 17,
+      "slug": "the-corner-kick",
+      "title": "Corner",
+      "body": "Le corner suit normalement une sortie derrière la ligne de but après toucher défenseur sans but. D’autres lois l’accordent, dont le délai du gardien.\n\nBallon immobile dans la bonne surface de coin ; drapeau inchangé. Adversaires à 9,15 m de l’arc. Un but direct contre l’adversaire peut compter."
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 1,
+      "prompt": "Le ballon chevauche encore la ligne de touche. Est-il sorti ?",
+      "options": [
+        "Non, le jeu continue",
+        "Oui, rentrée de touche",
+        "Balle à terre"
+      ],
+      "reason": "Le ballon entier doit franchir la ligne. Elle fait partie du terrain.",
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "chapter": 2,
+      "prompt": "Le ballon éclate pendant une passe dans le jeu courant. Que faire ?",
+      "options": [
+        "Arrêt, remplacement, balle à terre",
+        "Jouer avec le ballon abîmé",
+        "Coup franc"
+      ],
+      "reason": "Le ballon défectueux est remplacé et le jeu reprend par une balle à terre selon la procédure applicable.",
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "chapter": 3,
+      "prompt": "Un joueur prend volontairement 18 secondes pour sortir, sans blessure ni risque. Quand entre le remplaçant ?",
+      "options": [
+        "Premier arrêt après une minute de jeu repris",
+        "Immédiatement",
+        "Seulement après le prochain but"
+      ],
+      "reason": "En 2026/27, dépasser sans motif les dix secondes retarde l’entrée du remplaçant.",
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "chapter": 4,
+      "prompt": "Un joueur couvre un collier de ruban. Peut-il le porter ?",
+      "options": [
+        "Non, il faut l’enlever",
+        "Oui, le ruban suffit",
+        "Seulement le capitaine"
+      ],
+      "reason": "Les bijoux doivent être retirés. Le ruban ne remplace pas cette obligation.",
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "chapter": 5,
+      "prompt": "Vous laissez l’avantage, mais aucun bénéfice n’apparaît en deux secondes. Que pouvez-vous faire ?",
+      "options": [
+        "Revenir à la faute initiale",
+        "Ne jamais revenir",
+        "Exclure automatiquement"
+      ],
+      "reason": "On peut revenir à la faute si le bénéfice attendu ne se réalise pas dans les secondes suivantes.",
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "chapter": 6,
+      "prompt": "Un assistant signale un hors-jeu. Qui décide en dernier ?",
+      "options": [
+        "L’arbitre",
+        "L’assistant seul",
+        "Le capitaine"
+      ],
+      "reason": "Les assistants informent ; la décision finale appartient à l’arbitre.",
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "chapter": 7,
+      "prompt": "Trois minutes sont annoncées, puis une blessure retarde encore d’une minute. Faut-il finir à 93:00 ?",
+      "options": [
+        "Non, compenser le retard supplémentaire",
+        "Oui, toujours",
+        "Supprimer le temps additionnel"
+      ],
+      "reason": "Le temps annoncé est un minimum. D’autres pertes peuvent l’augmenter.",
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "chapter": 8,
+      "prompt": "Sur une balle à terre, un joueur frappe avant le contact au sol. Que faire ?",
+      "options": [
+        "Recommencer la balle à terre",
+        "Continuer",
+        "Penalty"
+      ],
+      "reason": "La balle à terre n’est en jeu qu’au contact du sol.",
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "chapter": 9,
+      "prompt": "Le ballon touche l’arbitre et la possession change d’équipe. Quelle reprise ?",
+      "options": [
+        "Balle à terre",
+        "Toujours laisser jouer",
+        "Touche"
+      ],
+      "reason": "Un toucher d’un arbitre changeant la possession impose une balle à terre.",
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "chapter": 10,
+      "prompt": "Un tir franchit presque la ligne, mais une petite partie est encore au-dessus. But ?",
+      "options": [
+        "Non",
+        "Oui",
+        "Si le gardien accepte"
+      ],
+      "reason": "Le ballon entier doit franchir la ligne pour qu’il y ait but.",
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "chapter": 11,
+      "prompt": "Un attaquant reçoit directement une touche au-delà de l’avant-dernier adversaire. Hors-jeu ?",
+      "options": [
+        "Aucune infraction",
+        "Toujours",
+        "Seulement dans la surface"
+      ],
+      "reason": "Il n’y a pas de hors-jeu en recevant directement une rentrée de touche.",
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "chapter": 12,
+      "prompt": "Après le compte visible, le gardien contrôle des mains plus de huit secondes. Décision ?",
+      "options": [
+        "Corner pour l’adversaire",
+        "Coup franc indirect",
+        "Exclusion automatique"
+      ],
+      "reason": "Dépasser huit secondes entraîne un corner, pas un coup franc indirect.",
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "chapter": 13,
+      "prompt": "Un coup franc indirect entre sans autre toucher dans le but adverse. Décision ?",
+      "options": [
+        "Coup de pied de but",
+        "But",
+        "Répéter sans raison"
+      ],
+      "reason": "L’indirect nécessite le toucher d’un autre joueur avant qu’un but puisse compter.",
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "chapter": 14,
+      "prompt": "Le tireur glisse, touche immédiatement par accident des deux pieds et marque. En 2026/27 ?",
+      "options": [
+        "Faire retirer le penalty",
+        "Toujours accorder le but",
+        "Rouge automatique"
+      ],
+      "reason": "Un double contact accidentel immédiat suivi d’un but impose de retirer. Le second toucher délibéré est différent.",
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "chapter": 15,
+      "prompt": "Une touche régulière entre directement dans le but adverse. Décision ?",
+      "options": [
+        "Coup de pied de but",
+        "But",
+        "Penalty"
+      ],
+      "reason": "On ne marque pas directement sur touche. Dans le but adverse, c’est un coup de pied de but.",
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "chapter": 16,
+      "prompt": "Un coup de pied de but régulier bouge clairement mais reste dans la surface. En jeu ?",
+      "options": [
+        "Oui",
+        "Seulement hors de la surface",
+        "Après un autre toucher"
+      ],
+      "reason": "Il est en jeu dès qu’il est botté et bouge clairement ; pas besoin de sortir de la surface.",
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "chapter": 17,
+      "prompt": "Un corner régulier entre directement dans le but adverse. Décision ?",
+      "options": [
+        "But",
+        "Coup de pied de but",
+        "Toujours retirer"
+      ],
+      "reason": "Un corner peut marquer directement contre l’adversaire sans autre infraction.",
+      "correct": 0
+    }
+  ]
+}
